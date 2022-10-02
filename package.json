@@ -1,14 +1,14 @@
 {
   "name": "download_directory",
   "version": "1.0.0",
-  "description": "",
+  "description": "Permite descargar archivos de directorios de tipo (Index Of)",
   "main": "index.js",
   "scripts": {
     "start": "node src/",
     "dev":"nodemon src/"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oscar Orozco",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
