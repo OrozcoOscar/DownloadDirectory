@@ -1,3 +1,9 @@
+/**
+ * OrozcoOscar
+ * v1.0
+ * 01/10/22
+ */
+/**
 const pup=require("puppeteer")
 class browser{
 	constructor(h=true){
