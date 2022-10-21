@@ -3,7 +3,7 @@
  * v1.0
  * 01/10/22
  */
-/**
+
 const express = require('express');
 const Browser = require("../modules/browser")
 const path = require('path');
